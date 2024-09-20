@@ -19,7 +19,7 @@ El I.E.S Haría cuenta con una gran oferta formativa, en el se imparten estos ci
 Por ejemplo este es el horario del _==1º CFGS Informática y Comunicaciones - Desarrollo de Aplicaciones Multiplataforma.==_ [^1]  
 
 |LUNES|MARTES|MIERCOLES|JUEVES|VIERNES| 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 | ETS | PRO | BAE | LND | LND | 
 | IKL | PRO | IKL | LND | PRO | 
 | LND | BAE | BAE | SSF | BAE | 
